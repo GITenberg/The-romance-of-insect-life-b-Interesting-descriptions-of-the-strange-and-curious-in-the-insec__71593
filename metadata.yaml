@@ -16,6 +16,9 @@ contributor:
     gutenberg_agent_id: '9847'
     url: http://www.gutenberg.org/2009/agents/9847
     wikipedia: https://en.wikipedia.org/wiki/Lancelot_Speed
+covers:
+- cover_type: archival
+  image_path: 71593-h/images/cover.jpg
 creator:
   author:
     agent_name: Selous, Edmund
@@ -24,6 +27,8 @@ creator:
     gutenberg_agent_id: '45735'
     url: http://www.gutenberg.org/2009/agents/45735
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71593#The-romance-of-insect-life-b-Interesting-descriptions-of-the-strange-and-curious-in-the-insec_
 gutenberg_issued: '2023-09-08'
 identifiers:
   gutenberg: '71593'
